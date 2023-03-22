@@ -1,7 +1,5 @@
 # Regex Explained
 
-Introductory paragraph (replace this with your text)
-
 ## Summary
 
 This summary of Regex will explain the different components of regex and how to use each. This is the regex expression we will use as our example: /^([a-z0-9_.-]+)@([\da-z.-]+).([a-z.]{2,6})$/
